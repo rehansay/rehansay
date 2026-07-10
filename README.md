@@ -34,27 +34,7 @@ const rehan = {
 } as const;
 ```
 
----
 
-## 🚀 Featured Projects
-
-### Employee Management System (EMS)
-
-A modern employee management platform built with React.js and Vite to streamline workforce administration and employee record management.
-
-<div align="center">
-  <a href="https://github.com/rehansay/EMS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehansay&repo=EMS&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5&bg_color=1a1b27" />
-  </a>
-</div>
-
-| Layer    | Technology |
-|----------|------------|
-| Frontend | React.js, Vite |
-
-🔗 [Code](https://github.com/rehansay/EMS)
-
----
 
 ## 🛠️ Tech Stack
 
