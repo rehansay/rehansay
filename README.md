@@ -23,7 +23,7 @@ const rehan = {
   stack: {
     frontend: ["React.js", "JavaScript (ES6+)", "HTML5", "CSS3", "Tailwind CSS", "Vite", "Redux Toolkit"],
     backend: ["Python", "FastAPI"],
-    languages: ["JavaScript", "Python", "C++", "Java", "SQL", "Bash"],
+    languages: ["JavaScript", "Python", "C++", "SQL", "Bash"],
     databases: ["SQLite", "PostgreSQL", "MongoDB"],
     tools: ["Git", "GitHub", "VS Code", "Appwrite", "Postman", "npm"],
   },
@@ -40,7 +40,7 @@ const rehan = {
 
 **Languages**
 
-![Skills](https://skillicons.dev/icons?i=js,py,cpp,java,bash)
+![Skills](https://skillicons.dev/icons?i=js,py,cpp,bash)
 
 **Frontend**
 
