@@ -27,8 +27,7 @@ const rehan = {
     databases: ["SQLite", "PostgreSQL", "MongoDB"],
     tools: ["Git", "GitHub", "VS Code", "Appwrite", "Postman", "npm"],
   },
-  launchedProjects: ["Employee Management System (EMS)"],
-  certifications: [],
+
   status: "Practicing DSA on LeetCode & sharpening full stack skills",
   openTo: ["Collaborations", "Full Stack opportunities"],
 } as const;
