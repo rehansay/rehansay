@@ -36,8 +36,6 @@ const rehan = {
 ```
 
 
-
-
 ## 🛠️ Tech Stack
 
 
