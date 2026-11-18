@@ -24,9 +24,9 @@ const rehan = {
   title: "Full Stack Developer",
   stack: {
     frontend: ["React.js", "JavaScript (ES6+)", "HTML5", "CSS3", "Tailwind CSS", "Vite", "Redux Toolkit"],
-    backend: ["Python", "FastAPI"],
+    backend: ["Python", "FastAPI","NeonDB"],
     languages: ["JavaScript", "Python", "C++", "SQL", "Bash"],
-    databases: ["SQLite", "PostgreSQL", "MongoDB"],
+    databases: ["SQLite", "PostgreSQL"],
     tools: ["Git", "GitHub", "VS Code", "Appwrite", "Postman", "npm"],
   },
 
